@@ -53,14 +53,34 @@ Today's web-based technology offers many online services in almost every field. 
 
 **HOMEPAGE**
 
+![Homepage](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/03f4e652-99b2-45dd-9520-9beb1579779e)
+
+
+
 **APPOINTMENT**
+
+![Appointment](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/f9fce112-d8e7-43f3-8647-85e6a1e7a231)
+
+
 
 **FEEDBACK**
 
+![Feedback](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/ab5c327e-b719-48a0-88d6-6283e7113ec5)
+
+
+
 **CONTACT US**
 
+![Contact](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/1e23feac-4c10-47b3-a1a4-63d18ec1ee5e)
+
+
+
 **ABOUT US**
- 
+
+ ![About Us](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/fffe4b4e-5c6c-4852-a820-1f53b23ed45e)
+
+
+
 **CONCLUSION AND FUTURE SCOPE**
 
 4.1) FUTURE SCOPE:

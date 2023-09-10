@@ -1,0 +1,243 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-image:url("image/r1.jfif") ; */
+    background-color: rgb(141, 229, 245);
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 17px;
+}
+.container{
+    background-color: orange;
+    border:5px solid rgb(255, 0, 0);
+    padding: 8px;
+    width: 70%;
+    margin: 10px 18%;
+    border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px black;
+
+}
+input[type="text"],
+input[type="number"],
+input[type="radio"],
+input[type="email"],
+input[type="date"],
+select,textarea{
+    padding: 10px;
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+
+}
+fieldset.contact{
+    border-radius: 5px;
+    background-color: blanchedalmond;
+   
+}
+fieldset.medical{
+    border-radius: 5px;
+    background-color:blanchedalmond ;
+    padding:10px ;
+
+}
+fieldset.gender{
+    background-color: white;
+    border: 2px solid black;
+}
+input[type="submit"]{
+    width: 20%;
+    background-color:lawngreen;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    text-align: center;
+
+}
+input[type="submit"]:hover{
+    background-color: orangered;
+    color: floralwhite;
+}
+h1.heading{
+    text-align: center;
+
+}
+img.image{
+height: 20px;
+width: 200px;
+}
+input[type="number"]{
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+input[type="email"]{
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+input[type="date"]{
+    width: 20%;
+    padding: 5px;
+}
+h1.heading{
+    color: rgb(3, 3, 116);
+    /* text-shadow:0px 0px 20px #03bcf4; */
+    text-transform: uppercase;
+}
+fieldset.contact h2{
+    color: rgb(3, 3, 116);
+    /* text-shadow:0px 0px 20px #03bcf4; */
+    margin: 25px;
+    text-transform: uppercase;
+}
+fieldset.gender{
+    padding: 10px;
+    margin: 5px;
+}
+fieldset.medical h2{
+    color: rgb(3, 3, 116);
+    /* text-shadow:0px 0px 20px #03bcf4; */
+    text-transform: uppercase;
+    margin: 10px;
+    padding: 10px;
+}
+p.name{
+    padding: 10px;
+    margin: 5px;
+}
+p.number{
+    padding: 10px;
+    margin: 5px;
+}
+p.address{
+    padding: 10px;
+    margin: 5px;
+}
+p.email{
+    padding: 10px;
+    margin: 5px;
+}
+p.gender{
+    padding: 10px;
+    margin: 5px;
+}
+p.pincode{
+    padding: 10px;
+    margin: 5px;
+}
+p.problem{
+    padding: 10px;
+    margin: 5px;
+}
+p.doctor{
+    padding: 10px;
+    margin: 5px;
+}
+p.date{
+    padding: 10px;
+    margin: 5px;
+}
+input[type="submit"]{
+    width: 20%;
+    background-color:rgb(251, 196, 106);
+    padding: 10px;
+    margin: 10px 40%;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul{
+    display:inline-flex;
+    background-color:rgb(0 112 188);
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 2%;
+    /* position:fixed; */
+    }
+    li{
+    padding: 15px;
+    margin: 2px;
+    }
+    ul.nav-bar a{
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    }
+    
+    
+    .dipart{
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    }
+    .dipart:hover{
+    color: #18e2e3;
+    font-family: cursive;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 30px rgb(0, 4, 255);
+    font-size: 25px;
+    
+    }
+    .dipart:hover .sub-list{
+    display: block;
+    position:absolute;
+    padding: 1px;
+    margin: 0;
+    
+    }
+    .dipart:hover .sub-list ul{
+    display: block;
+    background-color: rgb(0 112 188);
+    }
+    .dipart:hover .sub-list ul li{
+    width: 150px;
+    background-position: center;
+    padding: 10px;
+    border-bottom: 1px dotted white;
+    background: transparent;
+    text-align: left;
+    }
+    .dipart:hover .sub-list ul li:last-child{
+    border-bottom: none;
+    
+    }
+    .dipart:hover .sub-list ul li:hover{
+    color: rgb(3, 7, 255);
+    }
+    div img.logo{
+    position:absolute;
+    left: 95%;
+    border-radius: 50%;
+    }
+    
+    ul li div.sub-list{
+    display: none;
+    }
+    .dipart:hover h1.welcome{
+    display: none;
+    }
+    ul.nav-bar a:hover{
+    color: #18e2e3;
+    }
+    /* div.homepage img{
+    height: 230px;
+    width: 230px;
+    margin: 30px;
+    
+    } */
+    

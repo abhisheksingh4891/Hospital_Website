@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cardiologist</title>
+</head>
+<style>
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+        /* background-color: #b9b2a3; */
+        
+    }
+    body{
+        background-image: url("image/cardio.jpg");
+        background-repeat: no-repeat;
+        position: relative;
+        background-size: cover;
+
+    }
+    
+
+    #container {
+        display: flex;
+        margin: 25px;
+        /* border: 2px solid black; */
+        justify-content: space-evenly;
+        align-items: center;
+        
+    }
+
+    .items img {
+        width: 300px;
+        height: 300px;
+        margin: 0px 50px;
+        clip-path: circle();
+        filter: drop-shadow(.75em .75em);
+
+    }
+
+
+    table {
+        width: 300px;
+        box-shadow: 10px 10px 10px grey;
+    }
+
+    th {
+        text-align: left;
+    }
+
+    table,
+    th,
+    td {
+        border: 2px solid black;
+        border-collapse: collapse;
+        padding: 10px 10px;
+        text-align: center;
+    }
+
+    #container1 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color: rgb(221, 215, 215);
+        /* border: 2px solid black; */
+        border-radius: 10px;
+        text-align: left;
+        margin: 0px 25px;
+        
+
+    }
+    div.first tr th{
+        text-align: left;
+    }
+    div.first tr td{
+        text-align: left;
+    }
+    div.second tr th{
+        text-align: left;
+    }
+    div.second tr td{
+        text-align: left;
+    }
+    div.third tr th{
+        text-align: left;
+    }
+    div.third tr td{
+        text-align: left;
+    }
+    
+
+
+    .first, .second, .third {
+        margin: 25px;
+    }
+    ul{
+display:inline-flex;
+background-color:rgb(0 112 188);
+list-style: none;
+color: white;
+font-weight: bold;
+width: 100%;
+border-radius: 2%;
+/* position:fixed; */
+}
+li{
+padding: 15px;
+margin: 2px;
+}
+ul.nav-bar a{
+color: white;
+font-family: cursive;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+}
+
+
+.dipart{
+color: white;
+font-family: cursive;
+text-decoration: none;
+font-weight: bold;
+font-size: 20px;
+}
+.dipart:hover{
+color: #18e2e3;
+font-family: cursive;
+font-weight: bold;
+color: white;
+text-shadow: 0px 0px 30px rgb(0, 4, 255);
+font-size: 25px;
+
+}
+.dipart:hover .sub-list{
+display: block;
+position:absolute;
+padding: 1px;
+margin: 0;
+
+}
+.dipart:hover .sub-list ul{
+display: block;
+background-color: rgb(0 112 188);
+}
+.dipart:hover .sub-list ul li{
+width: 150px;
+background-position: center;
+padding: 10px;
+border-bottom: 1px dotted white;
+background: transparent;
+text-align: left;
+}
+.dipart:hover .sub-list ul li:last-child{
+border-bottom: none;
+
+}
+.dipart:hover .sub-list ul li:hover{
+color: rgb(3, 7, 255);
+}
+div img.logo{
+position:absolute;
+left: 95%;
+border-radius: 50%;
+}
+
+ul li div.sub-list{
+display: none;
+}
+.dipart:hover h1.welcome{
+display: none;
+}
+ul.nav-bar a:hover{
+color: #18e2e3;
+}
+div.homepage img{
+height: 230px;
+width: 230px;
+margin: 30px;
+
+}
+</style>
+
+<body>
+    <div>
+<img class="logo" src="image/vcare2.png" alt="went wrong" width="50px" height="50px">
+<ul class="nav-bar">
+<li><a class="home" href="home.html">Home</a> </li>
+<li class="dipart">Department
+<div class="sub-list">
+    <!-- <ul>
+                <li><a href="cardiology.html">Cardiologist</a></li>
+                <li><a href="orthopedic.html">Orthopedic</a></li>
+                <li><a href="neurology.html">Neurologists</a></li>
+                <li><a href="nephrology.html">Nephrologists</a></li>
+                <li><a href="dentist.html">densist</a></li>
+                <li><a href="eyecare.html">Eye-care</a></li>
+                <li><a href="genral.html">Genral</a></li>
+        
+    </ul> -->
+</div>
+</li>
+
+<li class="dipart"> Appointment
+    <div class="sub-list">
+        <ul>
+            <!-- <li><a href="http://localhost/abhishekproject/project.php">Physical</a></li>
+            <li><a href="http://localhost/abhishekproject/project2.php">Online</a></li> -->
+            
+        </ul>
+    </div>
+</li>
+<li><a class="make" href="http://localhost/abhishekproject/feedback.php">Feedback</a></li>
+<li><a class="contact" href="contact.html">Contact us</a></li>
+<li><a class="about" href="about.html">About</a></li>
+</ul>
+</div>
+    <div id="container">
+        <div class="items">
+            <img src="image/1.jpeg" alt="img">
+        </div>
+        <div class="items">
+            <img src="image/2.jpeg" alt="img">
+        </div>
+        <div class="items">
+            <img src="image/3.jpeg" alt="img">
+        </div>
+    </div>
+    <div id="container1">
+        <div class="first">
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Dr.Rohit gupta</th>
+                </tr>
+                <tr>
+                    <td>ID</td>
+                    <td>dh356i</td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td>39</td>
+                </tr>
+                <tr>
+                    <td>Degree</td>
+                    <td>MBBS,MD</td>
+                </tr>
+                <tr>
+                    <td>Exprince</td>
+                    <td>7 year</td>
+                </tr>
+                <tr>
+                    <td>No.oprations</td>
+                    <td>126</td>
+                </tr>
+                <tr>
+                    <td>Block no.</td>
+                    <td>h2</td>
+                </tr>
+                <tr>
+                    <td>Department</td>
+                    <td>Cardiologist</td>
+                </tr>
+            </table>
+        </div>
+        <div class="second">
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Dr.Neha singh</th>
+                </tr>
+                <tr>
+                    <td>ID</td>
+                    <td>dh456i</td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td>31</td>
+                </tr>
+                <tr>
+                    <td>Degree</td>
+                    <td>MBBS</td>
+                </tr>
+                <tr>
+                    <td>Exprince</td>
+                    <td>4 year</td>
+                </tr>
+                <tr>
+                    <td>No.oprations</td>
+                    <td>36</td>
+                </tr>
+                <tr>
+                    <td>Block no.</td>
+                    <td>h2</td>
+                </tr>
+                <tr>
+                    <td>Department</td>
+                    <td>Cardiologist</td>
+                </tr>
+            </table>
+        </div>
+        <div class="third">
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Dr.Sonali raut</th>
+                </tr>
+                <tr>
+                    <td>ID</td>
+                    <td>dh197i</td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td>36</td>
+                </tr>
+                <tr>
+                    <td>Degree</td>
+                    <td>MBBS,MD</td>
+                </tr>
+                <tr>
+                    <td>Exprince</td>
+                    <td>6 years</td>
+                </tr>
+                <tr>
+                    <td>No.oprations</td>
+                    <td>48</td>
+                </tr>
+                <tr>
+                    <td>Block no.</td>
+                    <td>h2</td>
+                </tr>
+                <tr>
+                    <td>Department</td>
+                    <td>Cardiologist</td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,170 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    background-image: url("image/hos.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  .line {
+    border-left: 5px solid white;
+    height: 650px;
+    margin: 30px 50px;
+  }
+  #pheading {
+    color: white;
+    margin: 15px 50px;
+    font-size: 50px;
+    font-family: "Ubuntu", sans-serif;
+  }
+  div.slogan {
+    margin-left: 64px;
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+  }
+  .para {
+    font-family: "Ubuntu", sans-serif;
+    margin-left: 50px;
+    margin-right: 820px;
+    margin-top: 15px;
+    color: white;
+    font-size: 18px;
+  }
+  div img {
+    height: 236px;
+    width: 236px;
+    margin-left: 50px;
+    filter: drop-shadow(5px 5px 10px black);
+  }
+  #creator {
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  h1 {
+    color: white;
+    margin: 15px 122px;
+    font-size: 50px;
+    font-family: "Ubuntu", sans-serif;
+  }
+  .items {
+    align-items: center;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    /* font-weight: bold; */
+    font-size: 15px;
+    transition: transform 300ms, boxshadow 300ms;
+    padding: 10px 10px;
+  }
+  .items:hover {
+    border: 2px solid white;
+    transform: scale(1.1);
+    box-shadow: 0px 0px 5px 2px rgba(255, 255, 255, 0.75);
+  }
+  .items img {
+    margin-left: 0px;
+    height: 60px;
+    width: 60px;
+    filter: invert(100%);
+  }
+  #futer {
+    margin-top: 20px;
+    padding: 5px;
+    font-family: "Ubuntu", sans-serif;
+    color: white;
+    background-color: #46a8ea;
+    box-shadow: 0px -10px 3px #46a8ea;
+  }
+  #end_para {
+    text-align: center;
+  }
+  ul{
+    display:inline-flex;
+    background-color:rgb(0 112 188);
+    list-style: none;
+    color: white;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 2%;
+    /* position:fixed; */
+    }
+    li{
+    padding: 15px;
+    margin: 2px;
+    }
+    ul.nav-bar a{
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    }
+    
+    
+    .dipart{
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    }
+    .dipart:hover{
+    color: #18e2e3;
+    font-family: cursive;
+    font-weight: bold;
+    color: white;
+    text-shadow: 0px 0px 30px rgb(0, 4, 255);
+    font-size: 25px;
+    
+    }
+    .dipart:hover .sub-list{
+    display: block;
+    position:absolute;
+    padding: 1px;
+    margin: 0;
+    
+    }
+    .dipart:hover .sub-list ul{
+    display: block;
+    background-color: rgb(0 112 188);
+    }
+    .dipart:hover .sub-list ul li{
+    width: 150px;
+    background-position: center;
+    padding: 10px;
+    border-bottom: 1px dotted white;
+    background: transparent;
+    text-align: left;
+    }
+    .dipart:hover .sub-list ul li:last-child{
+    border-bottom: none;
+    
+    }
+    .dipart:hover .sub-list ul li:hover{
+    color: rgb(3, 7, 255);
+    }
+    div img.logo{
+    position:absolute;
+    left: 95%;
+    border-radius: 50%;
+    }
+    
+    ul li div.sub-list{
+    display: none;
+    }
+    .dipart:hover h1.welcome{
+    display: none;
+    }
+    ul.nav-bar a:hover{
+    color: #18e2e3;
+    }
+    /* div.homepage img{
+    height: 230px;
+    width: 230px;
+    margin: 30px;
+    
+    } */
+    

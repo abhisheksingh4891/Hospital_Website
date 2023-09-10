@@ -4,6 +4,7 @@
 Today's web-based technology offers many online services in almost every field. Every major industry is converting and establishing a digital front for all their major operations to get closer to the booming digital market. In today's world the information flow is very fast and redundant means won't add to the betterment of the individual or the organization that's using them. Online connectivity is now a must for all the well organized and well managed establishments. One such field is Healthcare where the digitization of information should happen rapidly and efficiently. This paper addresses that particular region and paves a way for the creation of a software or website that help to make easy for the patient to book an appointment from Anyware, any time. These will help the people who are coming from long distances for the treatment. By these they can book and appointment with particular doctor they want to meet. Also, there data will be store in a hospital management system automatically and these will help them to Analyse record how many times and when they visit in hospital and also, they can store their proper treatment data in the website hence it will beneficial for them to manage their hospital records online rather than making and file or hard copy. Hence record can be store permanently for many year. 
  
 **INTRODUCTION**
+
 1.1 During the time of pandemic we notice that the hospital  where full of covid patient in such condition, it was very difficult for the people who have other problem to book an  appointment with doctors. For that they need to visit hospital and then wait for hours   for their number in  hospital. in between people who may have an infection. So , it seems to be very risky for them to visit a hospital for their treatment. And also, some hospitals had closed the general OPD for the patients. By considering all these things we decide to make and project of hospital website form where any one and book an appointment with and doctor they want  at any time and from anywhere. 
  
 1.2 Our project report is on "Hospital Website". In this website, we are giving detailed information about the hospital and its operations. The website is designed in an interactive manner and is able to give the users the knowledge of the expertise, experience and hospitality of the hospital. Through this website patients can get information not only about the expertise field but also the eminence of the hospital. The patients would be able to get daily updates of their queries and they can go through the profiles of the doctors. All the departments of the hospital have senior and experienced heads and the website gives all the necessary information about them. The website consists of webpage giving information about the appointment availability, latest updates and news of hospital. The events held by the hospital are showcased in a different section of the website giving it a communicative view. This website also consists of hyperlinks such as rules and regulations, contact us and so on. From these hyperlinks, we can get to know what are the rules and regulations of the hospital and patient's feedback about the information that they acquire from the website and they can also comment and express their views on it. Our website also helps to connect the common people with the hospital and they can now get to know each and everything about the hospital and can book appointments with doctors. A different section has been provided for contacting the hospital for any queries. 
@@ -51,9 +52,13 @@ Today's web-based technology offers many online services in almost every field. 
 **RESULTS AND DISCUSSION:**
 
 **HOMEPAGE**
+
 **APPOINTMENT**
+
 **FEEDBACK**
+
 **CONTACT US**
+
 **ABOUT US**
  
 **CONCLUSION AND FUTURE SCOPE**

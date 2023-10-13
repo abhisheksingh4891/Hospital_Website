@@ -51,35 +51,25 @@ Today's web-based technology offers many online services in almost every field. 
  
 **RESULTS AND DISCUSSION:**
 
-**HOMEPAGE**
+![1 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/a5db7b1f-24cb-40d4-b470-ee0d051739a6)
 
-![Homepage](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/03f4e652-99b2-45dd-9520-9beb1579779e)
+![2 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/513f3ab0-5170-47fd-8f7e-34689d81cede)
 
+![3 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/b9f09433-4f52-40c2-905b-f58e53007e35)
 
+![4 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/132b1083-05ae-449f-9b2f-83acc8acf6e1)
 
-**APPOINTMENT**
+![5 1 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/626bc789-59e7-49d7-8f5a-eb42134a0d65)
 
-![Appointment](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/f9fce112-d8e7-43f3-8647-85e6a1e7a231)
+![6 1 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/c79e42b4-ca5c-4354-92eb-6ba6ddefcf53)
 
+![6 1 2](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/8ac532c7-0520-45fc-ab78-1a53025f803d)
 
+![7 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/32de198c-d275-41d0-bccf-29676c3fbe50)
 
-**FEEDBACK**
+![8 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/c47404f0-946a-43b2-a9ed-c1c0000f822a)
 
-![Feedback](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/ab5c327e-b719-48a0-88d6-6283e7113ec5)
-
-
-
-**CONTACT US**
-
-![Contact](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/1e23feac-4c10-47b3-a1a4-63d18ec1ee5e)
-
-
-
-**ABOUT US**
-
- ![About Us](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/fffe4b4e-5c6c-4852-a820-1f53b23ed45e)
-
-
+![9 1](https://github.com/abhisheksingh4891/Hospital_Website/assets/75315222/39914897-9e86-494a-bb6c-6e882f453f93)
 
 **CONCLUSION AND FUTURE SCOPE**
 
